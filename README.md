@@ -1,6 +1,10 @@
-# Hi there 👋 I'm Frijo Francis!
+<p align="center"> <img src="https://github.com/frijofrancis/FrijoFrancis/blob/main/img/eagle_SWzb6n8YbF.gif?raw=true" /> </p>
 
-I'm an electronics engineer who is learning to code. Most of my previous commits are EAGLE and KiCad library files and project files that wanted to share with the world. Most of my librarries are public and you can access the here. Currently I'm learning **HTML** and **CSS**. 
+# **Hi there 👋 I'm Frijo Francis!**
+
+<p align="left"><i> I'm an electronics engineer who is learning to code. Most of my previous commits are EAGLE and KiCad library files and project files that wanted to share with the world. Most of my librarries are public and you can access the here. Currently I'm learning **HTML** and **CSS**. </i></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frijofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="frijofrancis" /> </p>
 
 ![Frijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=frijofrancis&show_icons=true&theme=dark)
 
