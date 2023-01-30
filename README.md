@@ -2,7 +2,7 @@
 
 # **Hi there 👋 I'm Frijo Francis!**
 
-<p align="left"><i> I'm an electronics engineer who is learning to code. Most of my previous commits are EAGLE and KiCad library files and project files that I wanted to share with the world. Most of my librarries are public and you can access them here. Currently I'm learning **HTML** and **CSS**. </i></p>
+<p align="left"><i> I'm an electronics engineer who is learning to code. Most of my previous commits are EAGLE and KiCad library files and project files that I wanted to share with the world. Most of my librarries are public and you can access them <a href=https://github.com/frijofrancis?tab=repositories>here</a>. Currently I'm learning **HTML** and **CSS**. </i></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frijofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="frijofrancis" /> </p>
 
