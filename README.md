@@ -4,10 +4,11 @@ I'm Frijo Francis. I'm an electronics engineer who is learning to code
 
 🌱 I’m currently learning **HTML** and **CSS**
 
-#### Reachout to me though <br>
-[LinkedIn](https://www.linkedin.com/in/frijo-francis/)
-<a href="https://www.instagram.com/fri_jo/" target="_blank">Instagram</a>
+#### Reachout to me though 
 
+[LinkedIn](https://www.linkedin.com/in/frijo-francis/)
+
+[Instagram](https://www.instagram.com/fri_jo/)
 
 
 
