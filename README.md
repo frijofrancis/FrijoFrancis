@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Frijo Francis. I'm an electronics engineer who is learning to code
+🌱 I’m currently learning HTML and CSS
 
 <!--
 **frijofrancis/FrijoFrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
